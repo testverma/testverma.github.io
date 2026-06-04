@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "Chase AI Replica",
+      "runtimeExecutable": "npx",
+      "runtimeArgs": ["serve", "/Users/neelverma/Desktop/GitHub/testverma.github.io", "-p", "3001", "--no-clipboard"],
+      "port": 3001
+    }
+  ]
+}
